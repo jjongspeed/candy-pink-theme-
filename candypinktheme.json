@@ -9,15 +9,18 @@
       "id": "0"
     }
   ],
-  "background": {
-    "blur": 0,
-    "url": "https://i.pinimg.com/736x/c1/12/06/c11206efb57dc0177937806da96305fc.jpg",
-    "alpha": 0.65
-  {
-  "theme_color_map": {
-    "BACKGROUND_PRIMARY": ["#FFF5FA", "#FFF5FA"],
-    "BACKGROUND_SECONDARY": ["#FFE6F0", "#FFE6F0"],
-    "BACKGROUND_TERTIARY": ["#FFD9E8", "#FFD9E8"],
+ "background": {
+  "blur": 0,
+  "url": "https://i.pinimg.com/736x/c1/12/06/c11206efb57dc0177937806da96305fc.jpg",
+  "alpha": 0.65
+},
+"theme_color_map": {
+  "BACKGROUND_PRIMARY": ["#FFF5FA", "#FFF5FA"],
+  "BACKGROUND_SECONDARY": ["#FFE6F0", "#FFE6F0"],
+  "BACKGROUND_TERTIARY": ["#FFD9E8", "#FFD9E8"],
+  "BACKGROUND_MOBILE_PRIMARY": ["#FFF5FA", "#FFF5FA"],
+  "BACKGROUND_MOBILE_SECONDARY": ["#FFE6F0", "#FFE6F0"]
+}
     "HEADER_PRIMARY": ["#9B426B", "#9B426B"],
     "HEADER_SECONDARY": ["#C66B93", "#C66B93"],
     "INTERACTIVE_ACTIVE": ["#FF69B4", "#FF69B4"],
