@@ -13,7 +13,7 @@
     "blur": 0,
     "url": "https://i.pinimg.com/736x/c1/12/06/c11206efb57dc0177937806da96305fc.jpg",
     "alpha": 0.65
-  },
+  {
   "theme_color_map": {
     "BACKGROUND_PRIMARY": ["#FFF5FA", "#FFF5FA"],
     "BACKGROUND_SECONDARY": ["#FFE6F0", "#FFE6F0"],
@@ -26,21 +26,22 @@
     "TEXT_NORMAL": ["#744157", "#744157"],
     "TEXT_MUTED": ["#B17B95", "#B17B95"],
     "TEXT_LINK": ["#E84393", "#E84393"],
-    "TEXT_DANGER": ["#E54868", "#E54868"],
     "CHANNEL_ICON": ["#C66B93", "#C66B93"],
     "KEYBOARD": ["#FFE6F0", "#FFE6F0"]
   },
   "colours": {
-    "PRIMARY_DARK": "#FFF5FA",
+      "PRIMARY_DARK": "#FF7AD1",
     "PRIMARY_DARK_100": "#9B426B",
+    "PRIMARY_DARK_200": "#FFF0F6",
     "PRIMARY_DARK_300": "#C66B93",
     "PRIMARY_DARK_360": "#E987B2",
     "PRIMARY_DARK_400": "#B17B95",
     "PRIMARY_DARK_500": "#FF69B4",
-    "PRIMARY_DARK_600": "#FFE6F0",
+    "PRIMARY_DARK_600": "#FF7AD1",
     "PRIMARY_DARK_630": "#FFD9E8",
-    "PRIMARY_DARK_700": "#FFF5FA",
-    "PRIMARY_DARK_800": "#FCEBF3",
+    "PRIMARY_DARK_660": "#FFD1E4",
+    "PRIMARY_DARK_700": "#FF7AD1",
+    "PRIMARY_DARK_800": "#FF7AD1"
     "BRAND_NEW": "#FF69B4",
     "BRAND_NEW_360": "#FF8FC4",
     "WHITE": "#FFFFFF",
