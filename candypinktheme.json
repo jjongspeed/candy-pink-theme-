@@ -27,7 +27,7 @@
     "TEXT_MUTED": ["#B17B95", "#B17B95"],
     "TEXT_LINK": ["#E84393", "#E84393"],
     "CHANNEL_ICON": ["#C66B93", "#C66B93"],
-    "KEYBOARD": ["#FFE6F0", "#FFE6F0"],
+    "KEYBOARD": ["#FFE6F0", "#FFE6F0"]
   },
   "colours": {
       "PRIMARY_DARK": "#FF7AD1",
@@ -50,7 +50,7 @@
     "STATUS_YELLOW": "#F4C95D",
     "STATUS_GREY": "#B7A1AE",
     "LINK": "#E84393",
-    "TRANSPARENT": "transparent",
+    "TRANSPARENT": "transparent"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#FFE6F0"
